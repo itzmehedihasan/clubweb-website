@@ -23,7 +23,7 @@ module.exports = {
 // ==============================================
       backgroundImage: {
         'logos': "url('/src/images/logos.png')",
-        'enjoybg' : "linear-gradient(0deg, rgb(28 28 28 / 50%), rgb(28 28 28 / 50%)), url('./src/images/enjoy-bg.png')"
+        'enjoybg' : "linear-gradient(0deg, rgb(28 28 28 / 50%), rgb(28 28 28 / 50%)), url('/dist/src/img/enjoy-bg.png')"
       },
 // ==============================================
       animation: {
